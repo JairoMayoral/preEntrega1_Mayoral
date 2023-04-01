@@ -1,0 +1,13 @@
+.components{
+    width: 100px;
+    height: 100px;
+    background-color: #cc8;
+    border-radius: 8px solid;
+    border-color: blue;
+    text-align: center;
+    display: flex
+    
+
+    
+}
+  
